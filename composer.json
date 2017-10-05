@@ -70,7 +70,8 @@
         "ext-pdo_mysql": "*",
         "ext-soap": "*",
         "sjparkinson/static-review": "~4.1",
-        "ramsey/uuid": "3.6.1"
+        "ramsey/uuid": "3.6.1",
+        "etws/magento-language-ru_ru": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.2.0",
